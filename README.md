@@ -30,15 +30,15 @@ These courses are currently taught at
 5. Coding conventions
 6. Data types, variables, expressions, sequential processing
 7. Arrays
-   7.1. Declaring and allocating arrays
-   7.2. Multiple-subscripted arrays
+   1. Declaring and allocating arrays
+   2. Multiple-subscripted arrays
 8. Control structure
-   8.1. Selective structures: if and switch
-   8.2 Repetitive structures: loops
+   1. Selective structures: if and switch
+   2. Repetitive structures: loops
 9. Algorithms including simple sorting and searching
 10.0 File I/O
-   10.1. Files and streams
-   10.2. Sequential access files
+   1. Files and streams
+   2. Sequential access files
 11. Error handling
 12. Passing parameters by value and by reference
 13. Principles of testing and designing test data
