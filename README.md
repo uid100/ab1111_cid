@@ -17,7 +17,14 @@ To date there are five courses within the Computer Science discipline:
  - COMP 142: Computer Architecture and Organization
  - COMP 152: Discrete Structures
 
-These courses are currently taught at 
+These courses are currently taught at most of the CSU and CCC system.
+
+
+<!-------1---------2---------3---------4---------5---------6---------7-------->
+I am actively teaching the equivalent __COMP 112__ using Python, and __COMP 132__ 
+in Java, and an equivalent __COMP 122__ course, which is currently using C#, but 
+I am considering restructuring this to use C++ for 
+
 
 ## COMP 112
 ### Learning Objectives
